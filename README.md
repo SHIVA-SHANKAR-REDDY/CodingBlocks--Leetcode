@@ -1,2 +1,4 @@
 # CodingBlocks
+# Illuminati
+# Leetcode
 These are my daily solved problems in the ILLUMINATI course
